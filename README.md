@@ -1,2 +1,2 @@
 # Backtesting-Framework
-A python framework for backtesting algorithmic trading strategies for 
+A python framework for backtesting algorithmic trading strategies 
